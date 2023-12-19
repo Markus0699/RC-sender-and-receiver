@@ -1,0 +1,66 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/include",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/src",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/Servo/src",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/LibPrintf/src",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/RF24",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/RF24/utility",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/Unity/src",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/include",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/src",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/Servo/src",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/LibPrintf/src",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/RF24",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/RF24/utility",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "c:/Users/Markus/Documents/Visual Studio Code/Arduino/RC car receiver on Pro Mini/.pio/libdeps/pro8MHzatmega328/Unity/src",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/Markus/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60106",
+                "ARDUINO_AVR_PRO",
+                "F_CPU=8000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/Markus/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
